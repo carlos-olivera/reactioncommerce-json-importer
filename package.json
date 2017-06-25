@@ -1,0 +1,19 @@
+{
+  "name": "reactioncommerce-json-importer",
+  "version": "1.0.0",
+  "description": "Importer for Reactioncommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlos-olivera/reactioncommerce-json-importer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "node-json-transform": "^1.0.10"
+  }
+}

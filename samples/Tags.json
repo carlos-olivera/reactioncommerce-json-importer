@@ -1,0 +1,116 @@
+[{
+  "slug": "baterias",
+  "name": "Baterías",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2016-04-12T08:17:20.576-0700"
+  },
+  "createdAt": {
+    "$date": "2016-04-12T08:17:20.576-0700"
+  },
+  "_id": "cseCBSSrJ3t8HQSNP",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+}, {
+  "slug": "cargadores",
+  "name": "Cargadores",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "createdAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "_id": "rpjCvTBGjhBi2xdro",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+},
+{
+  "slug": "fundas",
+  "name": "Fundas",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "createdAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "_id": "rpjCvTBGjh333xdro",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+},
+{
+  "slug": "adaptadores",
+  "name": "Adaptadores",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "createdAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "_id": "rpjCvTBGjh444xdro",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+},
+{
+  "slug": "wearables",
+  "name": "Wearables",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "createdAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "_id": "rpjCvTBGjh666xdro",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+},
+{
+  "slug": "audio",
+  "name": "Audio",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "createdAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "_id": "rpjCvTBGjh777xdro",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+},
+{
+  "slug": "vehiculo",
+  "name": "Vehículo",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "createdAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "_id": "rpjCvTBGjh888xdro",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+},
+{
+  "slug": "smartphone",
+  "name": "Smartphone",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "createdAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "_id": "ASgotKKjCN5yQpbAG",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+},
+{
+  "slug": "accesorios",
+  "name": "Accesorios",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "createdAt": {
+    "$date": "2014-04-09T13:23:57.412-0700"
+  },
+  "_id": "rpjCvTBGjh000xdro",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+}]
